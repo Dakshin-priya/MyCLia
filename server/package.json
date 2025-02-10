@@ -105,6 +105,6 @@
     "testEnvironment": "node"
   },
   "engines": {
-    "node": "18.12"
+    "node": ">=20"
   }
 }
